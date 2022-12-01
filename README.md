@@ -33,9 +33,6 @@
 - 장종훈: 백엔드(accounts,missingchilds, video streaming) 
 - 전승준: 백엔드(upload,cctvs) , 서버 배포
 
-#### 배포 환경
-
-- URL: [https://j7b302.p.ssafy.io/](https://j7b302.p.ssafy.io/)
 
 #### 개발환경
 
